@@ -1,0 +1,6 @@
+[submodule "TG-Server"]
+	path = TG-Server
+	url = https://github.com/mhdfahad1/TG-Server.git
+[submodule "Travel-Guide"]
+	path = Travel-Guide
+	url = https://github.com/mhdfahad1/Travel-Guide.git
